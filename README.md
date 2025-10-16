@@ -43,7 +43,7 @@ With over 6 years of experience in **Java development** for **banking** and **in
 ### 📫 Let’s Connect
 
 - 🌍 Portfolio: [ewigdev.tokyo](https://ewigdev.tokyo)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/cris-alarcon/](#) 
+- 💼 LinkedIn: https://www.linkedin.com/in/cris-alarcon/
 - ✉️ Email: [ewigdev@icloud.com](mailto:ewigdev@icloud.com)
 
 ---
